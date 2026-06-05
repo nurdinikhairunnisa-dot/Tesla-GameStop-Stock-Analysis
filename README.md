@@ -52,11 +52,11 @@ Extracted through web scraping from publicly available financial data sources.
 
 ## Tesla (TSLA)
 
-The visualization shows Tesla's historical stock price alongside company revenue.
+The visualization compares Tesla's stock price and revenue over time.
 
 ### Key Observation
 
-Between 2018 and 2021, both Tesla's revenue and stock price increased significantly, indicating strong business growth and increasing investor confidence.
+Tesla shows a positive relationship between business growth and stock market performance. As revenue increased, the stock price generally moved upward, indicating growing investor confidence in the company.
 
 ![Tesla Graph](https://github.com/nurdinikhairunnisa-dot/Tesla-GameStop-Stock-Analysis/blob/main/image/graphs_of_tesla.png?raw=true)
 
@@ -68,9 +68,9 @@ The visualization compares GameStop's stock price and revenue over time.
 
 ### Key Observation
 
-GameStop experienced a dramatic increase in stock price despite relatively stable revenue, highlighting the impact of market sentiment and the 2021 short squeeze event.
+GameStop does not show a strong relationship between business growth and stock market performance during this period. The sharp increase in stock price was not supported by revenue growth, suggesting that other factors, such as market sentiment and speculative trading activity, had a greater influence on the stock price.
 
-![GameStop Graph](images/gme_stock_graph.png)
+![GameStop Graph](https://github.com/nurdinikhairunnisa-dot/Tesla-GameStop-Stock-Analysis/blob/main/image/graphs_of_gme.png?raw=true)
 
 ---
 
@@ -105,9 +105,3 @@ This project demonstrates:
 - Exploratory Data Analysis (EDA)
 - Financial Data Analysis
 - Data Visualization
-
----
-
-## Author
-
-Nurdini Khairunnisa
