@@ -58,7 +58,7 @@ The visualization shows Tesla's historical stock price alongside company revenue
 
 Between 2018 and 2021, both Tesla's revenue and stock price increased significantly, indicating strong business growth and increasing investor confidence.
 
-![Tesla Graph](images/tesla_stock_graph.png)
+![Tesla Graph](https://github.com/nurdinikhairunnisa-dot/Tesla-GameStop-Stock-Analysis/blob/main/image/graphs_of_tesla.png?raw=true)
 
 ---
 
